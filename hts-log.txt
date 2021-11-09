@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Nov 2021 16:35:09 at http://preview.cruip.com/neon/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://preview.cruip.com/neon/ -O1 "C:\Users\OLAIFA\Desktop\Class\Zenith Template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:35:49	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/clients-05.svg (from preview.cruip.com/neon/)
+16:35:50	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/video-placeholder.svg (from preview.cruip.com/neon/)
+16:35:51	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/feature-tile-icon-01.svg (from preview.cruip.com/neon/)
+16:35:53	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/team-member-04.jpg (from preview.cruip.com/neon/additional.html)
+16:35:53	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/team-member-05.jpg (from preview.cruip.com/neon/additional.html)
+16:35:53	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/team-member-06.jpg (from preview.cruip.com/neon/additional.html)
+16:35:54	Warning: 	Retry after error -4 (No data (connection closed)) at link preview.cruip.com/neon/images/features-split-image-01.svg (from preview.cruip.com/neon/additional.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 39 links scanned, 31 files written (1261067 bytes overall) [610674 bytes received at 10713 bytes/sec], 1179634 bytes transferred using HTTP compression in 26 files, ratio 43%, 3.5 requests per connection
+(No errors, 7 warnings, 0 messages)
